@@ -1,5 +1,0 @@
-
-es_module = EcalElectronicsMappingBuilder {
-  untracked string MapFile = "Geometry/EcalMapping/data/EEMap.txt"
-}
-
